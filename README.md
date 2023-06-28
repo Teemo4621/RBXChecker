@@ -38,13 +38,13 @@ Q: Why does it show a virus alert when I download it?\
 A: It's a common issue when converting from Python to an EXE file, causing false-positive virus alerts.
 
 ## 🎮 Starting ##
-[Download]()
+[Download](https://github.com//Teemo4621/RBXChecker/releases/download/1.0.0/RBXChecker.zip)
 
-แยกไฟล์ที่ดาวน์โหลดมาเเละเปิดโฟลเดอร์ที่ชื่อว่า **RBXCheck**
+แยกไฟล์ที่ดาวน์โหลดมาเเละเปิดโฟลเดอร์ที่ชื่อว่า **RBXCheck**\
 Extract file downloaded and Openfolder **RBXCheck**
 
 # ⚙ Setting
-เปิดไฟล์ **config.json**
+เปิดไฟล์ **config.json**\
 open file **config.json**
 ```json
 {
@@ -54,7 +54,7 @@ open file **config.json**
 }
 ```
 # ♟ Run
-เปิด RBXChecker.exe ในโฟลเดอร์
+เปิด RBXChecker.exe ในโฟลเดอร์\
 Open the RBXChecker.exe in folder
 
 ## Made with ❤️ by ZEMONNUB ##
