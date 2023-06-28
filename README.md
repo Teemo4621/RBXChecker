@@ -39,6 +39,7 @@ A: It's a common issue when converting from Python to an EXE file, causing false
 
 ## 🎮 Starting ##
 [Download](https://github.com//Teemo4621/RBXChecker/releases/download/1.0.0/RBXChecker.zip)
+[Preview](https://www.youtube.com/watch?v=OJMgUSBgPhM&t=91s)
 
 แยกไฟล์ที่ดาวน์โหลดมาเเละเปิดโฟลเดอร์ที่ชื่อว่า **RBXCheck**\
 Extract file downloaded and Openfolder **RBXCheck**
