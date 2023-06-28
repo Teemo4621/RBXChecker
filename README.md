@@ -32,12 +32,30 @@ you need to have [Python](https://www.python.org/downloads/) installed.
 
 ## 💢 Q&A ##
 Q: ทำไมโหลดเเล้ว มีการเเจ้งเตือนว่ามีไวรัส\
-A: มันเป็นปัญหาเวลาเปลี่ยนจาก Python เป็น EXE คับ\
+A: มันเป็นปัญหาเวลาเปลี่ยนจาก Python เป็น EXE คับ
 
 Q: Why does it show a virus alert when I download it?\
-A: It's a common issue when converting from Python to an EXE file, causing false-positive virus alerts.\
+A: It's a common issue when converting from Python to an EXE file, causing false-positive virus alerts.
 
 ## 🎮 Starting ##
+[Download]()
+
+แยกไฟล์ที่ดาวน์โหลดมาเเละเปิดโฟลเดอร์ที่ชื่อว่า **RBXCheck**
+Extract file downloaded and Openfolder **RBXCheck**
+
+# ⚙ Setting
+เปิดไฟล์ **config.json**
+open file **config.json**
+```json
+{
+    "cookie": "", # your roblox cookie
+    "delay": "60", # open roblox delay >= 60s
+    "placeID": "8304191830" # roblox placeID
+}
+```
+# ♟ Run
+เปิด RBXChecker.exe ในโฟลเดอร์
+Open the RBXChecker.exe in folder
 
 ## Made with ❤️ by ZEMONNUB ##
 มีปัญหาตรงไหน สามารถเข้าดิสมาสอบถามได้ตลอด [Discord](https://discord.gg/AFewuPNPy2)
