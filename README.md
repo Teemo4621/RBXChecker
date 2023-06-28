@@ -39,7 +39,7 @@ A: It's a common issue when converting from Python to an EXE file, causing false
 
 ## 🎮 Starting ##
 
-## Made with ❤️ by 0sir1s ##
-มีปัญหาตรงไหน สามารถเข้าดิสมาสอบภามได้ตลอด [Discord](https://discord.gg/AFewuPNPy2)
+## Made with ❤️ by ZEMONNUB ##
+มีปัญหาตรงไหน สามารถเข้าดิสมาสอบถามได้ตลอด [Discord](https://discord.gg/AFewuPNPy2)
 
 where is the problem You can always come to Discord to ask questions. [Discord](https://discord.gg/AFewuPNPy2)
