@@ -38,7 +38,7 @@ Q: Why does it show a virus alert when I download it?\
 A: It's a common issue when converting from Python to an EXE file, causing false-positive virus alerts.
 
 ## 🎮 Starting ##
-[Download](https://github.com//Teemo4621/RBXChecker/releases/download/1.0.0/RBXChecker.zip)
+[Download](https://github.com//Teemo4621/RBXChecker/releases/download/1.0.0/RBXChecker.zip)\
 [Preview](https://www.youtube.com/watch?v=OJMgUSBgPhM&t=91s)
 
 แยกไฟล์ที่ดาวน์โหลดมาเเละเปิดโฟลเดอร์ที่ชื่อว่า **RBXCheck**\
