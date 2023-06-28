@@ -14,7 +14,7 @@ If any issues are detected, RBXChecker will automatically reopen the game for yo
 
 ## 🚀 Features ##
 :heavy_check_mark: Enter a game when the game crashes\
-:heavy_check_mark: Restart the game when having internet problems
+:heavy_check_mark: Restart the game when having internet problems\
 :heavy_check_mark: Supports all maps
 
 ## ✅ Requirements ##
