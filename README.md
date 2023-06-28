@@ -8,16 +8,38 @@
 </p>
 
 ## 📔 About ##
+คุณอาจจะมีปัญหาเวลาเล่นเกมRoblox UWP เวลา AFK เเละกลัวหลุด หรือ เกิดข้อผิดพลาด เราถึงได้มีRBXChecker มาเเก้ปัญหาตรงจุดนี้
+RBXChecker เป็นโปรเเกรมที่จะทำการเช็คว่าRoblox ของคุณมีปัญหาหรือไม่
+ถ้ามีRBXCheckerจะทำการเปิดเข้าเกมใหม่ให้คุณโดยทันที
+
 You may encounter issues when playing Roblox UWP, such as AFK and being concerned about getting disconnected or experiencing errors.
 To address this, we have RBXChecker, a program designed to check if there are any issues with your Roblox. 
 If any issues are detected, RBXChecker will automatically reopen the game for you immediately.
 
 ## 🚀 Features ##
+:heavy_check_mark: เปิดเกมใหม่เมื่อเกมมีปัญหา\
+:heavy_check_mark: เปิดเกมใหม่เมื่อมีปัญหาอินเทอร์เน็ต\
+:heavy_check_mark: รองรับทุกเเมพ
+
 :heavy_check_mark: Enter a game when the game crashes\
 :heavy_check_mark: Restart the game when having internet problems\
 :heavy_check_mark: Supports all maps
 
 ## ✅ Requirements ##
+คุณต้องติดตั้ง [Python](https://www.python.org/downloads/)
+
 you need to have [Python](https://www.python.org/downloads/) installed.
 
+## 💢 Q&A ##
+Q: ทำไมโหลดเเล้ว มีการเเจ้งเตือนว่ามีไวรัส\
+A: มันเป็นปัญหาเวลาเปลี่ยนจาก Python เป็น EXE คับ\
+
+Q: Why does it show a virus alert when I download it?\
+A: It's a common issue when converting from Python to an EXE file, causing false-positive virus alerts.\
+
 ## 🎮 Starting ##
+
+## Made with ❤️ by 0sir1s ##
+มีปัญหาตรงไหน สามารถเข้าดิสมาสอบภามได้ตลอด [Discord](https://discord.gg/AFewuPNPy2)
+
+where is the problem You can always come to Discord to ask questions. [Discord](https://discord.gg/AFewuPNPy2)
