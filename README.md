@@ -44,7 +44,7 @@ A: It's a common issue when converting from Python to an EXE file, causing false
 แยกไฟล์ที่ดาวน์โหลดมาเเละเปิดโฟลเดอร์ที่ชื่อว่า **RBXCheck**\
 Extract file downloaded and Openfolder **RBXCheck**
 
-# ⚙ Setting
+## ⚙ Setting ##
 เปิดไฟล์ **config.json**\
 open file **config.json**
 ```json
@@ -52,9 +52,11 @@ open file **config.json**
     "cookie": "", # your roblox cookie
     "delay": "60", # open roblox delay >= 60s
     "placeID": "8304191830" # roblox placeID
+  	"webhook": "", # webhook to send auto screenshot 
+  	"hookdelay": "" # auto screenshot delay
 }
 ```
-# ♟ Run
+# ♟ Run #
 เปิด RBXChecker.exe ในโฟลเดอร์\
 Open the RBXChecker.exe in folder
 
