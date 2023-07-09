@@ -52,6 +52,7 @@ open file **config.json**
     "cookie": "", # your roblox cookie
     "delay": "60", # open roblox delay >= 60s
     "placeID": "8304191830" # roblox placeID
+    "privatelink": "", #VIPServer Link
     "webhook": "", # webhook to send auto screenshot 
     "hookdelay": "" # auto screenshot delay
 }
